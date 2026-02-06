@@ -1,4 +1,4 @@
-# Smavia-Amir
+# Python 
 
 # Python Learning Repository 🐍
 
